@@ -22,6 +22,14 @@ product=[
         "name": "grape",
         "price": 12.99,
         "description": "This is a sweet grape"
+    },
+    {
+
+        
+        "id": 5,
+        "name": "watermelon",
+        "price": 15.99,
+        "description": "This is a refreshing watermelon"
     }
 
 
